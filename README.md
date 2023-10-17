@@ -2,7 +2,7 @@
 
 Here's a bit about me personally:
 
-- I live in Milan
+- I live in Milano, Italy 🇮🇹
 - I explore the city on my bicycle 🚲
 - I love late-night coding sessions
 

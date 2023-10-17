@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I'm Andrea. 👋
 
-<!--
-**AndreFra96/andrefra96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a bit about me personally:
 
-Here are some ideas to get you started:
+- I live in Milan
+- I explore the city on my bicycle 🚲
+- I love late-night coding sessions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And here's a bit about my professional life:
+
+- I work part-time as a full-stack software developer at RCA SRL. Currently, I'm involved in the development of a web application known as T-Order, which serves as a comprehensive tool to streamline the company's various processes.
+- I'm also engaged in a side project called Welcapp, which is a web service with the primary goal of enhancing the world of house renting by providing hosts with a centralized platform to communicate essential information to their guests.
+
+
+

@@ -4,7 +4,7 @@ Here's a bit about me personally:
 
 - I live in Milano, Italy 🇮🇹
 - I explore the city on my bicycle 🚲
-- I love late-night coding sessions
+- I love late-night coding sessions ☾
 
 And here's a bit about my professional life:
 
